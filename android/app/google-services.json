@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "322959400285",
+    "project_id": "graduated-project-7a6b0",
+    "storage_bucket": "graduated-project-7a6b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322959400285:android:395c549a1f9d20c13bdcb4",
+        "android_client_info": {
+          "package_name": "com.example.findme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVgja2AeC4VLxXaaciEKA5UUmGOyc7Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322959400285:android:33ad438f8bd427f93bdcb4",
+        "android_client_info": {
+          "package_name": "com.example.graduated2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVgja2AeC4VLxXaaciEKA5UUmGOyc7Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322959400285:android:2fe6de5e44c42c6b3bdcb4",
+        "android_client_info": {
+          "package_name": "com.example.graduated_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVgja2AeC4VLxXaaciEKA5UUmGOyc7Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
